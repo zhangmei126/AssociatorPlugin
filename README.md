@@ -1,3 +1,4 @@
-# AssociatorPlugin 1.0.0
+# AssociatorPlugin 1.1.0
 UE4 SoReal乐园会员系统插件
-最原始版本
+修改原始版本
+代码规范
